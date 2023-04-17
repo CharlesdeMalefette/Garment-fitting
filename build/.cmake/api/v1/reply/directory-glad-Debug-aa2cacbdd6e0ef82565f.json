@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "glad",
+		"source" : "/Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad"
+	}
+}
