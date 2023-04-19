@@ -1,9 +1,8 @@
 CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Users/charlesdemalefette/Documents/StageJaponInfo/Garment/main.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/Viewer.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../igl_inline.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../MeshGL.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/colon.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/igl_inline.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Dense \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Core \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Core/util/DisableStupidWarnings.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/new \
@@ -536,48 +535,19 @@ CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Core/ArrayWrapper.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Core/GlobalFunctions.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Core/util/ReenableStupidWarnings.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../MeshGL.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../bind_vertex_attrib_array.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../gl.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/glad/glad.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/KHR/khrplatform.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/inttypes.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/inttypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/inttypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_inttypes.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../bind_vertex_attrib_array.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../create_shader_program.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../create_shader_program.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../load_shader.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../load_shader.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_shader_info_log.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_shader_info_log.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_program_info_log.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_program_info_log.cpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../destroy_shader_program.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../destroy_shader_program.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../report_gl_error.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../report_gl_error.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../verbose.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../verasansmono_compressed.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/../igl_inline.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../verasansmono_compressed.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerCore.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/MeshGL.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Geometry \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/SVD \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/QR \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/LU \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/misc/Kernel.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/misc/Image.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/FullPivLU.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/PartialPivLU.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/Determinant.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/InverseImpl.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Cholesky \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Jacobi \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Jacobi/Jacobi.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Cholesky/LLT.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Cholesky/LDLT.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/QR \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Householder \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Householder/Householder.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Householder/HouseholderSequence.h \
@@ -586,18 +556,13 @@ CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/QR/FullPivHouseholderQR.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/QR/ColPivHouseholderQR.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/QR/CompleteOrthogonalDecomposition.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/SVD \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/misc/RealSvd2x2.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SVD/UpperBidiagonalization.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SVD/SVDBase.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SVD/JacobiSVD.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SVD/BDCSVD.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/LU \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/misc/Kernel.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/misc/Image.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/FullPivLU.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/PartialPivLU.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/Determinant.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/LU/InverseImpl.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Geometry \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Geometry/OrthoMethods.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Geometry/EulerAngles.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Geometry/Homogeneous.h \
@@ -612,18 +577,6 @@ CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Geometry/ParametrizedLine.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Geometry/AlignedBox.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Geometry/Umeyama.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/serialize.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/numeric \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Dense \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Eigenvalues \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Eigenvalues/Tridiagonalization.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Eigenvalues/RealSchur.h \
@@ -641,8 +594,25 @@ CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Eigenvalues/./RealQZ.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/colon.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/LinSpaced.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/directed_edge_orientations.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/StdVector \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/StlSupport/StdVector.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/StlSupport/details.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/directed_edge_orientations.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/directed_edge_parents.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/directed_edge_parents.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice_into.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/Sparse \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/SparseCore \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SparseCore/SparseUtil.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SparseCore/SparseMatrixBase.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/SparseCore/../plugins/CommonCwiseUnaryOps.h \
@@ -716,63 +686,17 @@ CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/IterativeLinearSolvers/BiCGSTAB.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/IterativeLinearSolvers/IncompleteLUT.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/Eigen/src/IterativeLinearSolvers/IncompleteCholesky.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerCore.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerData.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/colormap.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../colormap.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../colormap.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerData.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../per_face_normals.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../per_face_normals.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cotmatrix.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cotmatrix.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cotmatrix_entries.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cotmatrix_entries.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../doublearea.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../doublearea.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../edge_lengths.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../edge_lengths.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../squared_edge_lengths.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../squared_edge_lengths.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../parallel_for.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../default_num_threads.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../default_num_threads.cpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/thread \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sort.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sort.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../SortableRow.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../reorder.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../reorder.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../IndexComparison.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../colon.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../colon.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../LinSpaced.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../face_areas.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../face_areas.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../volume.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../volume.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cross.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cross.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../dihedral_angles.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../dihedral_angles.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../massmatrix.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../massmatrix.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../massmatrix_intrinsic.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../massmatrix_intrinsic.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../normalize_row_sums.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../normalize_row_sums.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sparse.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sparse.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../repmat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../repmat.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../pinv.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../deprecated.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../pinv.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../diag.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../diag.cpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice_into.cpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/SparseExtra \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/../../Eigen/Sparse \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/../../Eigen/src/Core/util/DisableStupidWarnings.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/src/SparseExtra/DynamicSparseMatrix.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/src/SparseExtra/BlockOfDynamicSparseMatrix.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/src/SparseExtra/RandomSetter.h \
@@ -781,210 +705,299 @@ CMakeFiles/ex_bin.dir/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/dirent.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/src/SparseExtra/MatrixMarketIterator.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../external/eigen/unsupported/Eigen/../../Eigen/src/Core/util/ReenableStupidWarnings.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/setdiff.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/setdiff.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/list_to_matrix.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/list_to_matrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/max_size.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/max_size.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/min_size.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/min_size.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sort.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sort.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/SortableRow.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/reorder.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/reorder.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/IndexComparison.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/parallel_for.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/default_num_threads.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/default_num_threads.cpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/thread \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sortrows.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sortrows.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/get_seconds.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/get_seconds.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/matrix_to_list.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/matrix_to_list.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/forward_kinematics.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/forward_kinematics.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/PI.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/lbs_matrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/lbs_matrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/deform_skeleton.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/deform_skeleton.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dqs.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dqs.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readDMAT.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readDMAT.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/verbose.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readOFF.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readOFF.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/min_quad_with_fixed.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/min_quad_with_fixed.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/is_symmetric.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/is_symmetric.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/find.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/find.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sparse.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sparse.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/repmat.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/repmat.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/EPS.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/EPS.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cat.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cat.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/matlab_format.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/matlab_format.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/STR.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/ARAPEnergyType.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cotmatrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cotmatrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cotmatrix_entries.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cotmatrix_entries.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/doublearea.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/doublearea.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/edge_lengths.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/edge_lengths.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/squared_edge_lengths.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/squared_edge_lengths.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/face_areas.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/face_areas.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/volume.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/volume.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cross.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cross.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dihedral_angles.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dihedral_angles.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/massmatrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/massmatrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/massmatrix_intrinsic.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/massmatrix_intrinsic.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/normalize_row_sums.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/normalize_row_sums.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/pinv.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/deprecated.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/pinv.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/diag.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/diag.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/group_sum_matrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/group_sum_matrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/covariance_scatter_matrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/covariance_scatter_matrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap_linear_block.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap_linear_block.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sum.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/sum.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/redux.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/for_each.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/edges.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/edges.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/adjacency_matrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/adjacency_matrix.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/speye.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/speye.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/mode.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/mode.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/project_isometrically_to_plane.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/project_isometrically_to_plane.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap_rhs.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap_rhs.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/repdiag.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/repdiag.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/columnize.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/columnize.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/fit_rotations.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/fit_rotations.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polar_svd3x3.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polar_svd3x3.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/svd3x3.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/svd3x3.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/Singular_Value_Decomposition_Preamble.hpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/Singular_Value_Decomposition_Kernel_Declarations.hpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/Singular_Value_Decomposition_Main_Kernel_Body.hpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/Singular_Value_Decomposition_Jacobi_Conjugation_Kernel.hpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/Singular_Value_Decomposition_Givens_QR_Factorization_Kernel.hpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polar_dec.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polar_dec.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polar_svd.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polar_svd.cpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fenv.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/fenv.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cfenv \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/C_STR.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/writeDMAT.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/writeDMAT.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/Viewer.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../igl_inline.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../MeshGL.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../MeshGL.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../bind_vertex_attrib_array.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../gl.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/glad/glad.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/KHR/khrplatform.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/inttypes.h \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/inttypes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/inttypes.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_inttypes.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../bind_vertex_attrib_array.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../create_shader_program.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../create_shader_program.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../load_shader.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../load_shader.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_shader_info_log.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_shader_info_log.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_program_info_log.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../print_program_info_log.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../destroy_shader_program.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../destroy_shader_program.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../report_gl_error.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../report_gl_error.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../verbose.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../verasansmono_compressed.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/../igl_inline.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../verasansmono_compressed.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerCore.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/MeshGL.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/serialize.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/numeric \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerCore.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerData.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/colormap.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/colormap.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../ViewerData.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../per_face_normals.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/per_face_normals.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/per_face_normals.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../material_colors.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../per_vertex_normals.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../per_vertex_normals.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../get_seconds.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../get_seconds.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../internal_angles.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../internal_angles.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/per_vertex_normals.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/per_vertex_normals.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/internal_angles.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/internal_angles.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../quat_to_mat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../quat_to_mat.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/quat_to_mat.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/quat_to_mat.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../snap_to_fixed_up.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../snap_to_fixed_up.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/snap_to_fixed_up.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/snap_to_fixed_up.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../look_at.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../look_at.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/look_at.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/look_at.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../frustum.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../frustum.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/frustum.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/frustum.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../ortho.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../ortho.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/ortho.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/ortho.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../massmatrix.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../barycenter.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../barycenter.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/barycenter.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/barycenter.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../PI.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/ViewerPlugin.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/Viewer.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glfw/include/GLFW/glfw3.h \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/project.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../project.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../project.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/get_seconds.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/project.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readOBJ.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readOBJ.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readOBJ.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../list_to_matrix.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../list_to_matrix.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../max_size.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../max_size.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../min_size.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../min_size.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polygon_corners.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polygon_corners.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polygons_to_triangles.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polygons_to_triangles.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readOBJ.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polygon_corners.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polygon_corners.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polygons_to_triangles.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/polygons_to_triangles.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/read_triangle_mesh.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../read_triangle_mesh.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../read_triangle_mesh.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readMSH.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readMSH.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../MshLoader.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../MshLoader.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readMESH.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readMESH.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readOFF.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readOFF.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readSTL.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readSTL.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../string_utils.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../string_utils.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../file_utils.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../file_utils.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readPLY.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../tinyply.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/read_triangle_mesh.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readMSH.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readMSH.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/MshLoader.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/MshLoader.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readMESH.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readMESH.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readSTL.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readSTL.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/string_utils.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/string_utils.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/file_utils.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/file_utils.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readPLY.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/tinyply.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__hash_table \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../tinyply.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readPLY.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readWRL.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../readWRL.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../pathinfo.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../pathinfo.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../dirname.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../dirname.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../basename.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../basename.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../boundary_facets.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../boundary_facets.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../face_occurrences.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../face_occurrences.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../matrix_to_list.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../matrix_to_list.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../unique_rows.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../unique_rows.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sortrows.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sortrows.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../accumarray.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../accumarray.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../slice_mask.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../slice_mask.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../slice.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../slice.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../slice_sorted.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../slice_sorted.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../find.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../find.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/tinyply.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readPLY.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readWRL.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readWRL.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/pathinfo.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/pathinfo.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dirname.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dirname.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/basename.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/basename.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/boundary_facets.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/boundary_facets.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/face_occurrences.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/face_occurrences.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique_rows.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique_rows.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/accumarray.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/accumarray.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice_mask.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice_mask.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice_sorted.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/slice_sorted.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/adjacency_list.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../adjacency_list.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../adjacency_list.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/adjacency_list.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/writeOBJ.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../writeOBJ.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../writeOBJ.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/writeOBJ.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/writeOFF.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../writeOFF.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../writeOFF.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/massmatrix.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/writeOFF.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/file_dialog_open.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../file_dialog_open.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../file_dialog_open.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/file_dialog_open.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/file_dialog_save.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../file_dialog_save.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../file_dialog_save.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/file_dialog_save.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/quat_mult.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../quat_mult.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../quat_mult.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/quat_mult.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/axis_angle_to_quat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../axis_angle_to_quat.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../axis_angle_to_quat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../EPS.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../EPS.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/axis_angle_to_quat.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/trackball.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../trackball.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../trackball.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../dot.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../dot.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/trackball.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dot.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/dot.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/two_axis_valuator_fixed_up.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../two_axis_valuator_fixed_up.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../two_axis_valuator_fixed_up.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/two_axis_valuator_fixed_up.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/snap_to_canonical_view_quat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../snap_to_canonical_view_quat.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../snap_to_canonical_view_quat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../canonical_quaternions.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../canonical_quaternions.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../normalize_quat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../normalize_quat.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/snap_to_canonical_view_quat.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/canonical_quaternions.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/canonical_quaternions.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/normalize_quat.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/normalize_quat.cpp \
   /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unproject.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../unproject.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../unproject.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/readOFF.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/doublearea.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/invert_diag.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../invert_diag.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../invert_diag.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/jet.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../jet.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../jet.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/arap.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../min_quad_with_fixed.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../min_quad_with_fixed.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../is_symmetric.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../is_symmetric.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cat.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../cat.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/matlab_format.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../matlab_format.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../matlab_format.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../STR.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../ARAPEnergyType.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../arap.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../arap.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../group_sum_matrix.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../group_sum_matrix.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../covariance_scatter_matrix.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../covariance_scatter_matrix.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../arap_linear_block.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/ARAPEnergyType.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../arap_linear_block.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sum.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../sum.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../redux.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../for_each.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../edges.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../edges.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../adjacency_matrix.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../adjacency_matrix.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../speye.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../speye.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../mode.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../mode.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../project_isometrically_to_plane.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../project_isometrically_to_plane.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../arap_rhs.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../arap_rhs.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../repdiag.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../repdiag.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../columnize.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../columnize.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../fit_rotations.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../fit_rotations.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polar_svd3x3.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polar_svd3x3.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../svd3x3.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../svd3x3.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../Singular_Value_Decomposition_Preamble.hpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../Singular_Value_Decomposition_Kernel_Declarations.hpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../Singular_Value_Decomposition_Main_Kernel_Body.hpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../Singular_Value_Decomposition_Jacobi_Conjugation_Kernel.hpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../Singular_Value_Decomposition_Givens_QR_Factorization_Kernel.hpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polar_dec.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polar_dec.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polar_svd.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../polar_svd.cpp \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fenv.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/fenv.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cfenv \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../C_STR.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/gaussian_curvature.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../gaussian_curvature.cpp \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/opengl/glfw/../../gaussian_curvature.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/per_vertex_normals.h \
-  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/per_face_normals.h
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unproject.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/is_edge_manifold.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/is_edge_manifold.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/oriented_facets.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/oriented_facets.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique_simplices.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique_simplices.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique_edge_map.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/unique_edge_map.cpp \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cumsum.h \
+  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/cmake/../include/igl/cumsum.cpp

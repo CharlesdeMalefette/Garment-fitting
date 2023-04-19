@@ -3,10 +3,9 @@
 
 CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/Garment/main.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/glfw/Viewer.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colon.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/igl_inline.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/MeshGL.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/igl_inline.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Dense
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Core
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/util/DisableStupidWarnings.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/new
@@ -539,48 +538,19 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/ArrayWrapper.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/GlobalFunctions.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/util/ReenableStupidWarnings.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/MeshGL.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/bind_vertex_attrib_array.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/gl.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/glad/glad.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/KHR/khrplatform.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/inttypes.h
- /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/inttypes.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/inttypes.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_inttypes.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/bind_vertex_attrib_array.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/create_shader_program.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/create_shader_program.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/load_shader.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/load_shader.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_shader_info_log.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_shader_info_log.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_program_info_log.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_program_info_log.cpp
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/destroy_shader_program.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/destroy_shader_program.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/report_gl_error.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/report_gl_error.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/verbose.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/verasansmono_compressed.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/igl_inline.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/verasansmono_compressed.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerCore.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/MeshGL.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Geometry
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/SVD
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/QR
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/LU
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/misc/Kernel.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/misc/Image.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/FullPivLU.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/PartialPivLU.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/Determinant.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/InverseImpl.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Cholesky
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Jacobi
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Jacobi/Jacobi.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Cholesky/LLT.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Cholesky/LDLT.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/QR
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Householder
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Householder/Householder.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Householder/HouseholderSequence.h
@@ -589,18 +559,13 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/QR/FullPivHouseholderQR.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/QR/ColPivHouseholderQR.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/QR/CompleteOrthogonalDecomposition.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/SVD
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/misc/RealSvd2x2.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/SVD/UpperBidiagonalization.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/SVD/SVDBase.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/SVD/JacobiSVD.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/SVD/BDCSVD.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/LU
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/misc/Kernel.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/misc/Image.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/FullPivLU.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/PartialPivLU.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/Determinant.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/LU/InverseImpl.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Geometry
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Geometry/OrthoMethods.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Geometry/EulerAngles.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Geometry/Homogeneous.h
@@ -615,18 +580,6 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Geometry/ParametrizedLine.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Geometry/AlignedBox.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Geometry/Umeyama.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/serialize.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/numeric
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Dense
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Eigenvalues
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Eigenvalues/Tridiagonalization.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Eigenvalues/RealSchur.h
@@ -644,8 +597,25 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Eigenvalues/GeneralizedEigenSolver.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Eigenvalues/RealQZ.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colon.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/LinSpaced.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/directed_edge_orientations.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/StdVector
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/vector
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__split_buffer
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/StlSupport/StdVector.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/StlSupport/details.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/directed_edge_orientations.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/directed_edge_parents.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/directed_edge_parents.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_into.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Sparse
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/SparseCore
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/map
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__functional/is_transparent.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__node_handle
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/optional
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__tree
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/SparseCore/SparseUtil.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/SparseCore/SparseMatrixBase.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/plugins/CommonCwiseUnaryOps.h
@@ -719,14 +689,88 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/IterativeLinearSolvers/BiCGSTAB.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/IterativeLinearSolvers/IncompleteLUT.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/IterativeLinearSolvers/IncompleteCholesky.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerCore.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerData.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colormap.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colormap.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colormap.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerData.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_face_normals.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_face_normals.cpp
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/list
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_into.cpp
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/SparseExtra
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Sparse
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/util/DisableStupidWarnings.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/fstream
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/filesystem
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/stack
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/deque
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iomanip
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/DynamicSparseMatrix.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/BlockOfDynamicSparseMatrix.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/RandomSetter.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/MarketIO.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/dirent.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/dirent.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/MatrixMarketIterator.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/util/ReenableStupidWarnings.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/setdiff.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/setdiff.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/list_to_matrix.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/list_to_matrix.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/max_size.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/max_size.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_size.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_size.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sort.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sort.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/SortableRow.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/reorder.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/reorder.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/IndexComparison.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/parallel_for.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/default_num_threads.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/default_num_threads.cpp
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/thread
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sortrows.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sortrows.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/get_seconds.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/get_seconds.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matrix_to_list.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matrix_to_list.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/forward_kinematics.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/forward_kinematics.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/PI.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/lbs_matrix.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/lbs_matrix.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/deform_skeleton.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/deform_skeleton.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dqs.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dqs.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readDMAT.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readDMAT.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/verbose.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOFF.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOFF.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_quad_with_fixed.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_quad_with_fixed.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/is_symmetric.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/is_symmetric.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/find.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/find.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sparse.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sparse.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/repmat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/repmat.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/EPS.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/EPS.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cat.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matlab_format.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matlab_format.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/STR.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ARAPEnergyType.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cotmatrix.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cotmatrix.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cotmatrix_entries.h
@@ -737,19 +781,6 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/edge_lengths.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/squared_edge_lengths.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/squared_edge_lengths.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/parallel_for.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/default_num_threads.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/default_num_threads.cpp
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/thread
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sort.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sort.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/SortableRow.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/reorder.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/reorder.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/IndexComparison.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colon.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colon.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/LinSpaced.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/face_areas.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/face_areas.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/volume.h
@@ -764,188 +795,16 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/massmatrix_intrinsic.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/normalize_row_sums.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/normalize_row_sums.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sparse.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sparse.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/repmat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/repmat.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/pinv.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/deprecated.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/pinv.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/diag.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/diag.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/SparseExtra
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/Sparse
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/util/DisableStupidWarnings.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/DynamicSparseMatrix.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/BlockOfDynamicSparseMatrix.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/RandomSetter.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/MarketIO.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/dirent.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/dirent.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/unsupported/Eigen/src/SparseExtra/MatrixMarketIterator.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/eigen/Eigen/src/Core/util/ReenableStupidWarnings.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/material_colors.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_vertex_normals.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_vertex_normals.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/get_seconds.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/get_seconds.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/internal_angles.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/internal_angles.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_to_mat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_to_mat.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_fixed_up.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_fixed_up.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/look_at.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/look_at.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/frustum.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/frustum.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ortho.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ortho.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/barycenter.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/barycenter.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/PI.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/glfw/ViewerPlugin.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/glfw/Viewer.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glfw/include/GLFW/glfw3.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/project.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/project.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/project.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/get_seconds.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOBJ.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOBJ.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOBJ.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/list_to_matrix.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/array
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/list_to_matrix.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/max_size.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/max_size.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_size.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_size.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygon_corners.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygon_corners.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygons_to_triangles.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygons_to_triangles.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/read_triangle_mesh.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/read_triangle_mesh.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/read_triangle_mesh.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMSH.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMSH.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/MshLoader.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/MshLoader.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMESH.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMESH.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOFF.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOFF.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readSTL.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readSTL.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/string_utils.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/string_utils.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_utils.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_utils.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readPLY.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/tinyply.h
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_map
- /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__hash_table
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/tinyply.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readPLY.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readWRL.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readWRL.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/pathinfo.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/pathinfo.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dirname.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dirname.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/basename.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/basename.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/boundary_facets.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/boundary_facets.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/face_occurrences.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/face_occurrences.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matrix_to_list.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matrix_to_list.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_rows.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_rows.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sortrows.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sortrows.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/accumarray.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/accumarray.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_mask.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_mask.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_sorted.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_sorted.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/find.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/find.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/adjacency_list.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/adjacency_list.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/adjacency_list.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOBJ.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOBJ.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOBJ.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOFF.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOFF.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOFF.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/massmatrix.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_open.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_open.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_open.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_save.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_save.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_save.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_mult.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_mult.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_mult.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/axis_angle_to_quat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/axis_angle_to_quat.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/axis_angle_to_quat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/EPS.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/EPS.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/trackball.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/trackball.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/trackball.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dot.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dot.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/two_axis_valuator_fixed_up.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/two_axis_valuator_fixed_up.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/two_axis_valuator_fixed_up.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_canonical_view_quat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_canonical_view_quat.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_canonical_view_quat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/canonical_quaternions.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/canonical_quaternions.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/normalize_quat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/normalize_quat.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unproject.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unproject.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unproject.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOFF.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/doublearea.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/invert_diag.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/invert_diag.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/invert_diag.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/jet.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/jet.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/jet.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_quad_with_fixed.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/min_quad_with_fixed.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/is_symmetric.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/is_symmetric.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cat.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cat.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matlab_format.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matlab_format.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/matlab_format.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/STR.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ARAPEnergyType.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/group_sum_matrix.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/group_sum_matrix.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/covariance_scatter_matrix.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/covariance_scatter_matrix.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap_linear_block.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ARAPEnergyType.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/arap_linear_block.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sum.h
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/sum.cpp
@@ -986,9 +845,163 @@ CMakeFiles/ex_bin.dir/main.cpp.o
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/fenv.h
  /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/cfenv
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/C_STR.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/gaussian_curvature.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/gaussian_curvature.cpp
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/gaussian_curvature.h
- /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_vertex_normals.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeDMAT.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeDMAT.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/glfw/Viewer.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/igl_inline.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/MeshGL.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/MeshGL.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/bind_vertex_attrib_array.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/gl.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/glad/glad.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glad/include/KHR/khrplatform.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/inttypes.h
+ /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/inttypes.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/inttypes.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/xlocale/_inttypes.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/bind_vertex_attrib_array.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/create_shader_program.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/create_shader_program.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/load_shader.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/load_shader.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_shader_info_log.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_shader_info_log.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_program_info_log.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/print_program_info_log.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/destroy_shader_program.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/destroy_shader_program.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/report_gl_error.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/report_gl_error.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/verbose.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/verasansmono_compressed.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/igl_inline.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/verasansmono_compressed.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerCore.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/MeshGL.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/serialize.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/numeric
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/set
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerCore.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerData.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colormap.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/colormap.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/ViewerData.cpp
  /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_face_normals.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_face_normals.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_face_normals.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/material_colors.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_vertex_normals.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_vertex_normals.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/per_vertex_normals.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/internal_angles.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/internal_angles.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_to_mat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_to_mat.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_to_mat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_fixed_up.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_fixed_up.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_fixed_up.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/look_at.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/look_at.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/look_at.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/frustum.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/frustum.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/frustum.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ortho.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ortho.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/ortho.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/massmatrix.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/barycenter.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/barycenter.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/barycenter.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/PI.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/glfw/ViewerPlugin.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/opengl/glfw/Viewer.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/external/glfw/include/GLFW/glfw3.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/project.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/project.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOBJ.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readOBJ.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygon_corners.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygon_corners.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygons_to_triangles.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/polygons_to_triangles.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/read_triangle_mesh.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/read_triangle_mesh.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMSH.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMSH.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/MshLoader.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/MshLoader.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMESH.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readMESH.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readSTL.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readSTL.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/string_utils.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/string_utils.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_utils.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_utils.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readPLY.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/tinyply.h
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/unordered_map
+ /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__hash_table
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/tinyply.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readPLY.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readWRL.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/readWRL.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/pathinfo.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/pathinfo.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dirname.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dirname.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/basename.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/basename.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/boundary_facets.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/boundary_facets.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/face_occurrences.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/face_occurrences.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_rows.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_rows.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/accumarray.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/accumarray.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_mask.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_mask.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_sorted.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/slice_sorted.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/adjacency_list.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/adjacency_list.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOBJ.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOBJ.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOFF.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/writeOFF.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_open.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_open.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_save.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/file_dialog_save.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_mult.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/quat_mult.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/axis_angle_to_quat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/axis_angle_to_quat.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/trackball.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/trackball.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dot.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/dot.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/two_axis_valuator_fixed_up.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/two_axis_valuator_fixed_up.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_canonical_view_quat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/snap_to_canonical_view_quat.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/canonical_quaternions.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/canonical_quaternions.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/normalize_quat.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/normalize_quat.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unproject.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unproject.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/is_edge_manifold.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/is_edge_manifold.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/oriented_facets.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/oriented_facets.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_simplices.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_simplices.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_edge_map.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/unique_edge_map.cpp
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cumsum.h
+ /Users/charlesdemalefette/Documents/StageJaponInfo/libigl/include/igl/cumsum.cpp
 
